@@ -1,1 +1,1 @@
-123
+loadstring(idinaxui)
